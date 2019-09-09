@@ -4,7 +4,7 @@
 
 This is the front end of a Short Story Site. [A live demo can be seen here.](https://ww-front.herokuapp.com/)
 
-**Please note that both are hosted using the Free plan on Heroku, which means that both projects will require time to become active.**
+**Please note that both the front end and back end are hosted using the Free plan on Heroku, which means that both projects will require time to become active and may need to be reloaded.**
 
 A simple app that allows users to register and submit short stories which can then be rated and commented on.
 
